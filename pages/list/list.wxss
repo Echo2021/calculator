@@ -1,0 +1,18 @@
+/* pages/list/list.wxss */
+page {background:#fff;height:100%;}
+.content {
+  height:100%;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAPCAYAAAD+pA/bAAAA/UlEQVQ4ja2RPRKCMBCFk1CL4kkAj2RvpY0Frd5RGbgAYDyA6y4hP0C02i1gvtmXzctbeTxdQWDtd6noX29hy7B2nCEPQT/bxvRrVk3zFHRDNzUNA7KeuB77vevX4kN6HejlgoN58lLdYbxJSDwI6HQzOvWcznlybtk5/cHKOqubB37BxVCjE6qQAfxLjP4Pt4aVzexQlCKssijmnM95qV9xblhxZ9600R1otswjO9CsmYcMOMDtgCvzyA54M/dskpHn6gacmRN3g9+p4sycioaHer8DhsxpqY7LYAecmZMe03EvU+RcoiKhqZPTFeM/EdI5XTJlq6yenON5y18PNJVeMb+1ywAAAABJRU5ErkJggg==");
+  background-repeat:repeaat;
+}
+.item {
+  width:720rpx;
+  height:150rpx;
+  line-height:150rpx;
+  background:orange;
+  border-radius:5px;
+  margin:10rpx;
+}
